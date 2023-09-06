@@ -38,6 +38,7 @@ The user has 10 attempts to guess the number or the game is over.Then user will 
 Live Demo:
 
 Click the link and press run to play the game:
+https://replit.com/@RadinaAvramova/GuessANumber#index.js
 
 
 
